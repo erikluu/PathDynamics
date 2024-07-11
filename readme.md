@@ -1,4 +1,4 @@
-# Multitrajectory Clustering
+# PathDynamics
 
 ## Overview
 This project simulates multiple trajectories on a 2D map, where points move along predefined curving
